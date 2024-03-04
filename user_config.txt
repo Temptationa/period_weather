@@ -1,0 +1,1 @@
+{'pic_box': True, 'time_box': True, 'flip_box': False, 'save_box': True, 'background_box': True, 'time_bgr': [255, 0, 0], 'predict_bgr': [255, 0, 0], 'save_path': ''}

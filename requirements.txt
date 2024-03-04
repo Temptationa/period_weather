@@ -1,0 +1,5 @@
+pandas=1.4.1
+tensorflow-gpu==2.3.0
+numpy==1.18.4
+pyqt5==5.15.4
+opencv-python==4.2.0.34
